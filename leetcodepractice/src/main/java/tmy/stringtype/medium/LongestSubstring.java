@@ -1,4 +1,4 @@
-package tmy.stringtype.hard;
+package tmy.stringtype.medium;
 
 import java.util.HashMap;
 import java.util.HashSet;
