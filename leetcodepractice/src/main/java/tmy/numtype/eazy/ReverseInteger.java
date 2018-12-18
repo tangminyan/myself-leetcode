@@ -11,7 +11,6 @@ import java.util.Stack;
 public class ReverseInteger {
     public int reverse(int x) {
         String s = "" + x;
-        int result = 0;
         double tmp = 0;
         Stack<Integer> numStack = new Stack<Integer>();
         if(x < 0){
@@ -22,12 +21,11 @@ public class ReverseInteger {
         }
         for(int i=s.length()-1; !numStack.empty(); i--) {
             int num = numStack.pop();
-            result += num * Math.pow(10, i);
             tmp += num * Math.pow(10, i);
             if ((int)(tmp) != tmp) {
                 return 0;
             }
         }
-        return x>0 ? result : 0-result;
+        return x>0 ? (int)tmp : (int)(0-tmp);
     }
 }
