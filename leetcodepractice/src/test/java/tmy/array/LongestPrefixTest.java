@@ -1,8 +1,7 @@
 package tmy.array;
 
 import org.junit.Test;
-
-import static org.junit.Assert.*;
+import tmy.array.easy.LongestPrefix;
 
 /**
  * Created by tangminyan on 2018/12/5.

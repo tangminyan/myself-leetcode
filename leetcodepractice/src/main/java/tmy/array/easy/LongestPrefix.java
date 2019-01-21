@@ -1,4 +1,4 @@
-package tmy.array;
+package tmy.array.easy;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
