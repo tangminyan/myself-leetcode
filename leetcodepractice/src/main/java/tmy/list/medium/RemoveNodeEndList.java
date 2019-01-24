@@ -1,17 +1,12 @@
 package tmy.list.medium;
 
+import tmy.list.utils.ListNode;
+
 /**
  * Created by tangminyan on 2018/12/18.
  *
  *  Remove Nth Node From End of List
  */
-
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
- }
-
 public class RemoveNodeEndList {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         int count = 0;

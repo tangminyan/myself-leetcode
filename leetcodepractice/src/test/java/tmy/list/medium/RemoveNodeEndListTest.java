@@ -1,6 +1,7 @@
 package tmy.list.medium;
 
 import org.junit.Test;
+import tmy.list.utils.ListNode;
 
 /**
  * Created by tangminyan on 2018/12/18.

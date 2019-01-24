@@ -2,44 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2265d58b-b85a-4454-8030-aeb30642586f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tmy/array/medium/LetterPhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tmy/list/medium/RemoveNodeEndList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tmy/numtype/medium/FourSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tmy/numtype/medium/ThreeSumClosest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tmy/array/medium/LetterPhoneNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tmy/list/medium/RemoveNodeEndListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tmy/numtype/medium/FourSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tmy/numtype/medium/ThreeSumClosestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tmy/list/easy/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tmy/list/hard/MergeSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tmy/list/medium/GenerateParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tmy/list/medium/SwapNodesInPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tmy/list/utils/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tmy/stringtype/easy/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tmy/list/hard/MergeSortedListsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tmy/list/medium/GenerateParenthesesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tmy/stringtype/easy/ValidParenthesesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tmy/array/LongestPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tmy/array/easy/LongestPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tmy/array/LongestPrefixTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tmy/array/LongestPrefixTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tmy/array/LongestPrefix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tmy/axis/medium/ContainerMostWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tmy/axis/medium/ContainerMostWater.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tmy/numtype/eazy/PalindromeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tmy/numtype/eazy/PalindromeNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tmy/numtype/eazy/ReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tmy/numtype/eazy/ReverseInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tmy/numtype/eazy/RomantoInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tmy/numtype/eazy/RomantoInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tmy/numtype/hard/MedianofTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tmy/numtype/hard/MedianofTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tmy/numtype/medium/IntegertoRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tmy/numtype/medium/IntegertoRoman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tmy/numtype/medium/Sum3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tmy/numtype/medium/Sum3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tmy/stringtype/hard/RegularExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tmy/stringtype/hard/RegularExpression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tmy/stringtype/medium/LongestPalindromic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tmy/stringtype/medium/LongestPalindromic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tmy/stringtype/medium/LongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tmy/stringtype/medium/LongestSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tmy/stringtype/medium/StringtoInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tmy/stringtype/medium/StringtoInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tmy/stringtype/medium/ZigZagConversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tmy/stringtype/medium/ZigZagConversion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tmy/array/LongestPrefixTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tmy/array/LongestPrefixTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tmy/axis/medium/ContainerMostWaterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tmy/axis/medium/ContainerMostWaterTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tmy/numtype/eazy/PalindromeNumberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tmy/numtype/eazy/PalindromeNumberTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tmy/numtype/eazy/ReverseIntegerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tmy/numtype/eazy/ReverseIntegerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tmy/numtype/eazy/RomantoIntegerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tmy/numtype/eazy/RomantoIntegerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tmy/numtype/hard/MedianofTwoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tmy/numtype/hard/MedianofTwoTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tmy/numtype/medium/IntegertoRomanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tmy/numtype/medium/IntegertoRomanTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tmy/numtype/medium/Sum3Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tmy/numtype/medium/Sum3Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tmy/stringtype/hard/LongestSubstringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tmy/stringtype/hard/LongestSubstringTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tmy/stringtype/hard/RegularExpressionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tmy/stringtype/hard/RegularExpressionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tmy/stringtype/medium/LongestPalindromicTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tmy/stringtype/medium/LongestPalindromicTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tmy/stringtype/medium/StringtoIntegerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tmy/stringtype/medium/StringtoIntegerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tmy/stringtype/medium/ZigZagConversionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tmy/stringtype/medium/ZigZagConversionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tmy/list/medium/RemoveNodeEndList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tmy/list/medium/RemoveNodeEndList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tmy/list/medium/RemoveNodeEndListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tmy/list/medium/RemoveNodeEndListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tmy/list/medium/ListNode.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -64,26 +39,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LetterPhoneNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tmy/array/medium/LetterPhoneNumber.java">
+      <file leaf-file-name="ValidParentheses.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tmy/stringtype/easy/ValidParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="54" column="10" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+            <state relative-caret-position="245">
+              <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#491#508#0" expanded="true" />
-                <element signature="e#1011#1019#0" expanded="true" />
-                <element signature="e#2448#2456#0" expanded="true" />
+                <element signature="e#1461#1472#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sum3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tmy/numtype/medium/Sum3.java">
+      <file leaf-file-name="ValidParenthesesTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tmy/stringtype/easy/ValidParenthesesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+            <state relative-caret-position="416">
+              <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,11 +63,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FourSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tmy/numtype/medium/FourSum.java">
+      <file leaf-file-name="GenerateParentheses.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tmy/list/medium/GenerateParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+            <state relative-caret-position="331">
+              <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#390#398#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MergeSortedLists.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tmy/list/hard/MergeSortedLists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="762">
+              <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,50 +88,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RemoveNodeEndList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tmy/list/medium/RemoveNodeEndList.java">
+      <file leaf-file-name="SwapNodesInPairs.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tmy/list/medium/SwapNodesInPairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-180">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="772">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RemoveNodeEndListTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tmy/list/medium/RemoveNodeEndListTest.java">
+      <file leaf-file-name="MergeTwoSortedLists.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tmy/list/easy/MergeTwoSortedLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            <state relative-caret-position="224">
+              <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FourSumTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tmy/numtype/medium/FourSumTest.java">
+      <file leaf-file-name="MergeSortedListsTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tmy/list/hard/MergeSortedListsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LetterPhoneNumberTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tmy/array/medium/LetterPhoneNumberTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="772">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -157,8 +124,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Arquillian JUnit Test Class" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -224,8 +191,18 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/tmy/common/classes/ListNode.java" />
         <option value="$PROJECT_DIR$/src/test/java/tmy/list/medium/ListNodeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tmy/stringtype/easy/ValidParentheses.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tmy/stringtype/easy/ValidParenthesesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tmy/list/medium/GenerateParentheses.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tmy/list/hard/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tmy/list/easy/MergeTwoSortedLists.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tmy/list/hard/MergeSortedLists.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tmy/list/utils/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tmy/list/medium/GenerateParenthesesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tmy/list/hard/MergeSortedListsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/tmy/list/medium/RemoveNodeEndList.java" />
         <option value="$PROJECT_DIR$/src/test/java/tmy/list/medium/RemoveNodeEndListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tmy/list/medium/SwapNodesInPairs.java" />
       </list>
     </option>
   </component>
@@ -259,7 +236,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -338,7 +314,37 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tmy" type="462c0819:PsiDirectoryNode" />
               <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodepractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodepractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tmy" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="hard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodepractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodepractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tmy" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodepractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodepractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tmy" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcodepractice" type="b2602c69:ProjectViewProjectNode" />
@@ -358,6 +364,25 @@
               <item name="tmy" type="462c0819:PsiDirectoryNode" />
               <item name="numtype" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodepractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodepractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tmy" type="462c0819:PsiDirectoryNode" />
+              <item name="stringtype" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodepractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodepractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tmy" type="462c0819:PsiDirectoryNode" />
+              <item name="stringtype" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcodepractice" type="b2602c69:ProjectViewProjectNode" />
@@ -422,6 +447,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -440,11 +466,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="tmy.list.hard" />
       <recent name="tmy.list.medium" />
+      <recent name="tmy.stringtype.easy" />
       <recent name="tmy.numtype.medium" />
       <recent name="tmy.array.medium" />
-      <recent name="tmy.array" />
-      <recent name="tmy.numtype.eazy" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="tmy.numtype.hard" />
@@ -465,7 +491,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RemoveNodeEndListTest.test">
+  <component name="RunManager" selected="JUnit.MergeSortedListsTest.test">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -492,19 +518,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="LetterPhoneNumberTest.createCpId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GenerateParenthesesTest.generateParenthesis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode.practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tmy.array.medium.*" />
+          <option name="PATTERN" value="tmy.list.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="tmy.array.medium" />
-      <option name="MAIN_CLASS_NAME" value="tmy.array.medium.LetterPhoneNumberTest" />
-      <option name="METHOD_NAME" value="createCpId" />
+      <option name="PACKAGE_NAME" value="tmy.list.medium" />
+      <option name="MAIN_CLASS_NAME" value="tmy.list.medium.GenerateParenthesesTest" />
+      <option name="METHOD_NAME" value="generateParenthesis" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -515,42 +541,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="LetterPhoneNumberTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MergeSortedListsTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode.practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tmy.array.medium.*" />
+          <option name="PATTERN" value="tmy.list.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="tmy.array.medium" />
-      <option name="MAIN_CLASS_NAME" value="tmy.array.medium.LetterPhoneNumberTest" />
+      <option name="PACKAGE_NAME" value="tmy.list.hard" />
+      <option name="MAIN_CLASS_NAME" value="tmy.list.hard.MergeSortedListsTest" />
       <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="LetterPhoneNumberTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode.practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tmy.array.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="tmy.array.medium" />
-      <option name="MAIN_CLASS_NAME" value="tmy.array.medium.LetterPhoneNumberTest" />
-      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -573,6 +576,29 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="tmy.list.medium" />
       <option name="MAIN_CLASS_NAME" value="tmy.list.medium.RemoveNodeEndListTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ValidParenthesesTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode.practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tmy.stringtype.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="tmy.stringtype.easy" />
+      <option name="MAIN_CLASS_NAME" value="tmy.stringtype.easy.ValidParenthesesTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -623,19 +649,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.LetterPhoneNumberTest.test" />
-      <item itemvalue="JUnit.LetterPhoneNumberTest.createCpId" />
-      <item itemvalue="JUnit.LetterPhoneNumberTest.test2" />
       <item itemvalue="JUnit.FourSumTest.test" />
       <item itemvalue="JUnit.RemoveNodeEndListTest.test" />
+      <item itemvalue="JUnit.ValidParenthesesTest.test" />
+      <item itemvalue="JUnit.GenerateParenthesesTest.generateParenthesis" />
+      <item itemvalue="JUnit.MergeSortedListsTest.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MergeSortedListsTest.test" />
+        <item itemvalue="JUnit.GenerateParenthesesTest.generateParenthesis" />
+        <item itemvalue="JUnit.ValidParenthesesTest.test" />
         <item itemvalue="JUnit.RemoveNodeEndListTest.test" />
         <item itemvalue="JUnit.FourSumTest.test" />
-        <item itemvalue="JUnit.LetterPhoneNumberTest.test2" />
-        <item itemvalue="JUnit.LetterPhoneNumberTest.createCpId" />
-        <item itemvalue="JUnit.LetterPhoneNumberTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -655,43 +681,44 @@
       <workItem from="1543893006632" duration="19532000" />
       <workItem from="1544092835089" duration="6023000" />
       <workItem from="1545100645617" duration="18849000" />
+      <workItem from="1548034953238" duration="21094000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FourSumTest_test - 2018.12.18 at 15h 56m 11s.xml">
-      <configuration name="FourSumTest.test" configurationId="JUnit" />
+    <history-entry file="GenerateParenthesesTest_generateParenthesis - 2019.01.21 at 14h 14m 48s.xml">
+      <configuration name="GenerateParenthesesTest.generateParenthesis" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FourSumTest_test - 2018.12.18 at 15h 57m 35s.xml">
-      <configuration name="FourSumTest.test" configurationId="JUnit" />
+    <history-entry file="GenerateParenthesesTest_generateParenthesis - 2019.01.21 at 14h 15m 24s.xml">
+      <configuration name="GenerateParenthesesTest.generateParenthesis" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FourSumTest_test - 2018.12.18 at 16h 04m 51s.xml">
-      <configuration name="FourSumTest.test" configurationId="JUnit" />
+    <history-entry file="MergeSortedListsTest_test - 2019.01.21 at 14h 52m 16s.xml">
+      <configuration name="MergeSortedListsTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveNodeEndListTest_test - 2018.12.18 at 17h 44m 13s.xml">
-      <configuration name="RemoveNodeEndListTest.test" configurationId="JUnit" />
+    <history-entry file="MergeSortedListsTest_test - 2019.01.21 at 14h 53m 24s.xml">
+      <configuration name="MergeSortedListsTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveNodeEndListTest_test - 2018.12.18 at 17h 46m 42s.xml">
-      <configuration name="RemoveNodeEndListTest.test" configurationId="JUnit" />
+    <history-entry file="MergeSortedListsTest_test - 2019.01.21 at 14h 54m 54s.xml">
+      <configuration name="MergeSortedListsTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveNodeEndListTest_test - 2018.12.18 at 17h 48m 22s.xml">
-      <configuration name="RemoveNodeEndListTest.test" configurationId="JUnit" />
+    <history-entry file="MergeSortedListsTest_test - 2019.01.21 at 14h 55m 35s.xml">
+      <configuration name="MergeSortedListsTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveNodeEndListTest_test - 2018.12.18 at 17h 48m 58s.xml">
-      <configuration name="RemoveNodeEndListTest.test" configurationId="JUnit" />
+    <history-entry file="MergeSortedListsTest_test - 2019.01.21 at 14h 59m 12s.xml">
+      <configuration name="MergeSortedListsTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveNodeEndListTest_test - 2018.12.18 at 17h 49m 49s.xml">
-      <configuration name="RemoveNodeEndListTest.test" configurationId="JUnit" />
+    <history-entry file="MergeSortedListsTest_test - 2019.01.21 at 15h 00m 09s.xml">
+      <configuration name="MergeSortedListsTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveNodeEndListTest_test - 2018.12.18 at 17h 50m 44s.xml">
-      <configuration name="RemoveNodeEndListTest.test" configurationId="JUnit" />
+    <history-entry file="MergeSortedListsTest_test - 2019.01.21 at 15h 01m 29s.xml">
+      <configuration name="MergeSortedListsTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveNodeEndListTest_test - 2018.12.18 at 17h 52m 03s.xml">
-      <configuration name="RemoveNodeEndListTest.test" configurationId="JUnit" />
+    <history-entry file="MergeSortedListsTest_test - 2019.01.21 at 17h 01m 08s.xml">
+      <configuration name="MergeSortedListsTest.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97329000" />
+    <option name="totallyTimeSpent" value="118423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -701,24 +728,25 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3297062" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Mongo Explorer" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3224401" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41394335" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.41721132" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3297062" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30610022" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="CheckStyle" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21268657" />
-      <window_info anchor="right" id="BPMNPalette" />
+      <window_info anchor="right" id="BPMNPalette" order="4" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -770,11 +798,41 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="100" />
+      <option name="time" value="106" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>queue</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>node</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tmp</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>strStack</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>peek1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>peek</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>strs[i].indexOf(pre)</expression-string>
         <language-id>JAVA</language-id>
@@ -790,116 +848,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>romanMap.get(s.charAt(s.length()-1))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s.charAt(i)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>romanMap.get(s.charAt(i-1)) &lt; romanMap.get(s.charAt(i))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s.charAt(s.length()-1)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>values[i]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>compareStr[j]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/tmy/stringtype/hard/LongestSubstringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="7" column="31" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tmy/numtype/hard/MedianofTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="224" column="12" selection-start-line="224" selection-start-column="12" selection-end-line="224" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tmy/numtype/hard/MedianofTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2112">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tmy/stringtype/medium/LongestPalindromicTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="20" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tmy/numtype/hard/MedianofTwoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="16" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tmy/stringtype/medium/LongestSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Program Files/Java/jdk1.8.0_152/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="733" column="16" selection-start-line="733" selection-start-column="16" selection-end-line="733" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/StringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="127" column="11" lean-forward="true" selection-start-line="127" selection-start-column="11" selection-end-line="127" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tmy/stringtype/medium/LongestPalindromic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tmy/numtype/eazy/ReverseIntegerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -1039,9 +990,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1102,13 +1050,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tmy/array/medium/LetterPhoneNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
+        <state relative-caret-position="1536">
           <caret line="54" column="10" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#491#508#0" expanded="true" />
-            <element signature="e#1011#1019#0" expanded="true" />
-            <element signature="e#2448#2456#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1117,16 +1062,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-          <folding>
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tmy/array/medium/LetterPhoneNumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="640">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1134,23 +1075,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13-beta-1/junit-4.13-beta-1.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13-beta-1/junit-4.13-beta-1.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="219" selection-start-line="219" selection-end-line="219" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13-beta-1/junit-4.13-beta-1.jar!/org/junit/internal/runners/model/ReflectiveCallable.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13-beta-1/junit-4.13-beta-1.jar!/org/junit/runners/ParentRunner.class" />
     <entry file="file://$PROJECT_DIR$/src/main/java/tmy/numtype/medium/Sum3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
+        <state relative-caret-position="1344">
           <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1165,23 +1094,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tmy/list/medium/ListNodeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tmy/list/medium/ListNodeTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/tmy/numtype/medium/FourSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
+        <state relative-caret-position="1056">
           <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1189,10 +1105,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tmy/common/classes/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tmy/common/classes/ListNode.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="270">
+          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_152/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tmy/stringtype/easy/ValidParenthesesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tmy/list/hard/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tmy/list/utils/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tmy/list/hard/MergeSortedLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="762">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tmy/list/medium/GenerateParenthesesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tmy/stringtype/easy/ValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+          <folding>
+            <element signature="e#1461#1472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tmy/list/medium/RemoveNodeEndListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1201,15 +1183,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tmy/list/medium/RemoveNodeEndList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="320">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tmy/list/medium/RemoveNodeEndListTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tmy/list/medium/GenerateParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        <state relative-caret-position="331">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#390#398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tmy/list/easy/MergeTwoSortedLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tmy/list/hard/MergeSortedListsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="772">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tmy/list/medium/SwapNodesInPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="772">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
